@@ -1,6 +1,6 @@
 # Simple Calculator
 
-I created a simple and easy to use calculator app for both Andriod as well as IOS users. I made this project in Android Studio and coded it with Dart. My main purpose of this project was to practice getting used to the Google's new toolkit Flutter.
+I created a simple and easy to use calculator app for both Android as well as IOS users. I made this project in Android Studio and coded it with Dart. My main purpose of this project was to practice getting used to the Google's new toolkit Flutter.
 
 # Features
 * Responsive UI.

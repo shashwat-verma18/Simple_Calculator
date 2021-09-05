@@ -7,7 +7,7 @@ I created a simple and easy to use calculator app for both Andriod as well as IO
 * It can perform all basic operations.
 
 # ScreenShots
-
+https://user-images.githubusercontent.com/64372915/132132033-b2f6a2d5-ecc2-4723-ad7c-823e021a3f31.jpeg
 
 # How to Contribute
 * Make a Fork.
